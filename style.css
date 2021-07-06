@@ -1,0 +1,251 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: medium;
+    transition: all 0.5s ease;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  .fix {
+   overflow: hidden ;
+  }
+  .main-container {
+    width: 100%;
+    height: auto;
+    justify-content: center;
+  }
+  .container{
+      text-align: center;
+      justify-content: center;
+  }
+    
+  h1 {
+    margin-top: 30px;
+    color: #363958;
+    font-size: 40px;
+  }
+  h2 {
+    color: #ff8367;
+    font-size: 40px;
+  }
+  p {
+    margin-top: 10px;
+    margin-bottom: 25px;
+    font-size: 14px;
+    color: rgb(53, 26, 26);
+  }
+  .button {
+    background-color: #f96d62;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .fast-said1 button {
+    margin-bottom: 150px;
+  }
+  img {
+    border-radius: 5px;
+    padding: 5px;
+    width: 300px;
+    background-repeat: no-repeat;
+  }
+  .fast-said {
+    float: left;
+    padding:120px;
+  }
+  .img {
+    float: left;
+  }
+  .img-margin {
+    margin-left: 370px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+  .img-margin1 {
+    margin-left: 100px;
+  }
+  .fast-said1 {
+    float: left;
+    margin-top: -300px;
+    margin-left: 740px;
+    text-align:left;
+  }
+  .money {
+    border: 2px solid #ddd;
+    float: left;
+    margin-left: 350px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px gray;
+    color:black !important
+  }
+  .money-one{
+    border: 2px solid #ddd;
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px gray;
+  }
+  .money-two{
+    border: 2px solid #ddd;
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px gray;
+  }
+  h3 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 40px;
+    color: #f96d62;
+  }
+  .money h4 {
+    text-align: center;
+    font-size: 20px;
+    
+  }
+  .money p {
+    font-size: 14px;
+    
+  }
+  .jewel{
+    background-image: url("img/banar.png");
+    height: 150px;
+    width: 100%;
+    margin: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    border-radius: 50px;
+  }
+  .jewel {
+    margin-bottom: 100px;
+  }
+  .jewel h6 {
+    color: #fff;
+    font-size: 40px;
+    padding-top: 50px;
+    padding-left: 50px;
+  }
+  .jewel button {
+    display: inline-block;
+    float: right;
+    overflow: hidden;
+    margin-top: -50px;
+    margin-right: 100px;
+    background-color: #f96d62;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .button-one{
+      color:white;
+      text-decoration:none;
+  }
+  .font-one{
+      font-family:Arial, Helvetica, sans-serif;
+      font-size:20px;
+      font-weight:700;
+  }
+  .blog-one{
+      background-image:url("img/banar.png");
+      background-size:cover;
+      background-repeat:no-repeat;
+      padding-left: 250px;
+      padding-top: 80px;
+      padding-bottom:80px;
+      padding-right:250px;
+  }
+  .main-div{
+    width: 5px;
+    height:1px;
+    padding-left:5%;}
+
+  .footer-one{
+      width:100%;
+      height:150px;
+      text-align:center;
+      background-color:black;
+      color:white;
+
+  }
+  
+  
+  .footer-one h4{font-family: Arial, Helvetica, sans-serif;
+    font-weight:700;
+    font-size:25px;
+    padding-top: 40px;
+
+  }
+  .man-one{
+    background-color:blue;
+    color:white;
+    padding:12px;
+    font-size:30px;
+  }
+   
+  .sarvice-one{
+     width:100%;
+     height:300px;
+     font-family: Arial, Helvetica, sans-serif;
+  }
+  .sarvice-two{
+    width:100%;
+    display: block;
+    margin: 0 auto;
+     
+  }
+  .sarvice-three{
+    float: left;
+    margin-left:400px;
+    
+     
+  }
+  .sarvice-four{
+    float: left;
+    margin-left:200px;
+  }
+  .sarvice-five{
+    float: left;
+    margin-left: 200px;
+  }
+  .sarvice-three h6{
+    font-size:40px;
+    font-weight: 700;
+    padding-top: 70px;
+    color: red;
+  }
+  .sarvice-four h6{
+    font-size:40px;
+    font-weight: 700;
+    padding-top: 70px;
+    color:red;
+  }
+  .sarvice-five h6{
+    font-size:40px;
+    font-weight: 700;
+    padding-top: 70px;
+    color: red;
+  }
+   
+   
